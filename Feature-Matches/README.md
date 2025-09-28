@@ -6,7 +6,7 @@ This project demonstrates different feature matching techniques using OpenCV for
 
 ```
 feature-matching/
-├── matching.py          # Main script with feature matching implementations
+├── feature_matching.py          # Main script with feature matching implementations
 ├── img1.jpg            # Query image (first image for comparison)
 ├── img2.jpg            # Training image (second image for comparison)
 └── README.md           # This file
@@ -65,7 +65,7 @@ pip install opencv-python matplotlib numpy
 Run the script to see all three matching techniques:
 
 ```bash
-python matching.py
+python feature_matching.py
 ```
 
 The script will display three visualization windows showing:
