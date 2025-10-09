@@ -35,15 +35,15 @@ YOLOv8 kullanarak videolardaki araçları tespit eden, takip eden ve gidiş-geli
 ## 🎥 Demo
 
 ### Giriş Videosu
-![Input Video](https://via.placeholder.com/600x300?text=Giri%C5%9F+Videosu)
+https://drive.google.com/file/d/1HE2tud2OjGnd0x_SxK9jlnNtXIx67jna/view?usp=sharing
 
 ### Çıkış Videosu
-![Output Video](https://via.placeholder.com/600x300?text=%C3%87%C4%B1k%C4%B1%C5%9F+Videosu)
+https://drive.google.com/file/d/1Amdmjj0pI8fSbzrkqN_NrHKSXZ9a8Iwr/view?usp=sharing
 
 **Sonuçlar:**
-- 🚗 Giden Araçlar: 47
-- 🚙 Gelen Araçlar: 52
-- 🔢 Toplam: 99
+- 🚗 Giden Araçlar: 98
+- 🚙 Gelen Araçlar: 108
+- 🔢 Toplam: 206
 
 ## 🚀 Kurulum
 
@@ -268,33 +268,12 @@ if frame_count % 2 != 0:  # Her 2. frame'i atla
 
 ## 📊 Performans
 
-### Test Sonuçları
 
-| Video | Çözünürlük | Süre | İşleme Zamanı | FPS | Doğruluk |
-|-------|-----------|------|---------------|-----|----------|
-| Video 1 | 1080p | 60s | 45s | 40 FPS | 94% |
-| Video 2 | 720p | 120s | 75s | 48 FPS | 92% |
-| Video 3 | 4K | 30s | 60s | 15 FPS | 96% |
 
 **Test Ortamı:**
-- GPU: NVIDIA RTX 3060
-- CPU: Intel i7-10700K
-- RAM: 16 GB
+- GPU: NVIDIA T4 COLAB1
 - Model: YOLOv8n
 
-## 🎓 Öğrenme Kaynakları
-
-### YOLO
-- [Ultralytics Docs](https://docs.ultralytics.com/)
-- [YOLOv8 Paper](https://arxiv.org/abs/2305.09972)
-
-### Computer Vision
-- [OpenCV Tutorials](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html)
-- [PyImageSearch](https://pyimagesearch.com/)
-
-### Object Tracking
-- [DeepSORT](https://arxiv.org/abs/1703.07402)
-- [ByteTrack](https://arxiv.org/abs/2110.06864)
 
 ## 🤝 Katkıda Bulunma
 
