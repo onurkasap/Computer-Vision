@@ -34,10 +34,10 @@ An AI-powered vehicle counting system that detects, tracks, and counts vehicles 
 ## 🎥 Demo
 
 ### Input Video
-![Input Video]([https://drive.google.com/file/d/1HE2tud2OjGnd0x_SxK9jlnNtXIx67jna/view?usp=sharing](https://drive.google.com/thumbnail?id=1HE2tud2OjGnd0x_SxK9jlnNtXIx67nja&sz=w600)](https://drive.google.com/file/d/1HE2tud2OjGnd0x_SxK9jlnNtXIx67nja/preview))
+[https://drive.google.com/file/d/1HE2tud2OjGnd0x_SxK9jlnNtXIx67jna/view?usp=sharing]
 
 ### Output Video
-![Output Video](https://drive.google.com/file/d/1Amdmjj0pI8fSbzrkqN_NrHKSXZ9a8Iwr/view?usp=sharing)
+[(https://drive.google.com/file/d/1Amdmjj0pI8fSbzrkqN_NrHKSXZ9a8Iwr/view?usp=sharing)]
 
 **Results:**
 - 🚗 Outgoing Vehicles: 98
