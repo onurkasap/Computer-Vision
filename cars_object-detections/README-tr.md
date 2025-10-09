@@ -1,4 +1,5 @@
-# 🚗 Araç Sayma Sistemi - YOLO ile Görüntü İşleme
+# 🚗 Araç Sayma Sistemi - YOLO ile Görüntü İşleme - Vehicle Counter System - Computer Vision with YOLO
+
 
 YOLOv8 kullanarak videolardaki araçları tespit eden, takip eden ve gidiş-geliş yönlerine göre sayan yapay zeka destekli bir projedir.
 
