@@ -265,35 +265,9 @@ if frame_count % 2 != 0:  # Skip every 2nd frame
     continue
 ```
 
-## 📊 Performance
-
-### Test Results
-
-| Video | Resolution | Duration | Processing Time | FPS | Accuracy |
-|-------|-----------|----------|----------------|-----|----------|
-| Video 1 | 1080p | 60s | 45s | 40 FPS | 94% |
-| Video 2 | 720p | 120s | 75s | 48 FPS | 92% |
-| Video 3 | 4K | 30s | 60s | 15 FPS | 96% |
-
 **Test Environment:**
-- GPU: NVIDIA RTX 3060
-- CPU: Intel i7-10700K
-- RAM: 16 GB
+- GPU: NVIDIA T4 COLAB GPU
 - Model: YOLOv8n
-
-## 🎓 Learning Resources
-
-### YOLO
-- [Ultralytics Docs](https://docs.ultralytics.com/)
-- [YOLOv8 Paper](https://arxiv.org/abs/2305.09972)
-
-### Computer Vision
-- [OpenCV Tutorials](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html)
-- [PyImageSearch](https://pyimagesearch.com/)
-
-### Object Tracking
-- [DeepSORT](https://arxiv.org/abs/1703.07402)
-- [ByteTrack](https://arxiv.org/abs/2110.06864)
 
 ## 🤝 Contributing
 
