@@ -301,12 +301,6 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**[Your Name]**
-- GitHub: [@username](https://github.com/username)
-- Email: email@example.com
-- LinkedIn: [profile-link](https://linkedin.com/in/profile)
 
 ## 🙏 Acknowledgments
 
