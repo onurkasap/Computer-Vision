@@ -307,12 +307,6 @@ Katkılarınızı bekliyoruz! Lütfen şu adımları izleyin:
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
-## 👨‍💻 Geliştirici
-
-**[Adınız]**
-- GitHub: [@kullaniciadi](https://github.com/kullaniciadi)
-- Email: email@example.com
-- LinkedIn: [profil-linki](https://linkedin.com/in/profil)
 
 ## 🙏 Teşekkürler
 
